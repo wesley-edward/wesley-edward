@@ -2,7 +2,8 @@
 
  <div>
   <a href="https://github.com/yelsew00">
-  <img height="180em" src="https://media.licdn.com/dms/image/C4D03AQGTkFb9AwcE2w/profile-displayphoto-shrink_200_200/0/1565022794437?e=1695859200&v=beta&t=hquWBpp_8OdEoBHkqhSnpP5RwKW-uXiraUoUH8JdI-Y"/>
+  <img height="180em" src=""/>
+  <img height="180em" src=""/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
