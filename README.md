@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Wesley Edward 😁
 
  <div>
-  <a href="https://github.com/yelsew00">
+  <a href="https://github.com/wesley-edward">
   <img height="180em" src=""/>
   <img height="180em" src=""/>
 </div>
